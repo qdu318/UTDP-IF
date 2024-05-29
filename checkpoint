@@ -1,0 +1,2 @@
+model_checkpoint_path: "c3.p1.t1.resunit4.lr0.0002--1"
+all_model_checkpoint_paths: "c3.p1.t1.resunit4.lr0.0002--1"
